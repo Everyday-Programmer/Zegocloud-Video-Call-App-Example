@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024855444814",
+    "project_id": "zego-video-call",
+    "storage_bucket": "zego-video-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024855444814:android:43b9e385076d162941a21f",
+        "android_client_info": {
+          "package_name": "com.example.zegovideocall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI_873eCD6QVyG6Nd9UVcruQni8_E7mGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
